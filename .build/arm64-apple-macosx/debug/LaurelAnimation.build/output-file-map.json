@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/master.swiftdeps"
+  },
+  "/Users/batuhanbarin/Desktop/LaurelAnimation/Sources/LaurelAnimation/LaurelAnimatedView.swift": {
+    "dependencies": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelAnimatedView.d",
+    "object": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelAnimatedView.swift.o",
+    "swiftmodule": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelAnimatedView~partial.swiftmodule",
+    "swift-dependencies": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelAnimatedView.swiftdeps",
+    "diagnostics": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelAnimatedView.dia"
+  },
+  "/Users/batuhanbarin/Desktop/LaurelAnimation/Sources/LaurelAnimation/LaurelShape.swift": {
+    "dependencies": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelShape.d",
+    "object": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelShape.swift.o",
+    "swiftmodule": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelShape~partial.swiftmodule",
+    "swift-dependencies": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelShape.swiftdeps",
+    "diagnostics": "/Users/batuhanbarin/Desktop/LaurelAnimation/.build/arm64-apple-macosx/debug/LaurelAnimation.build/LaurelShape.dia"
+  }
+}
